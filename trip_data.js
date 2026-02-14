@@ -9,7 +9,7 @@ const tripData = {
         day: "Day 1",
         name: "東京新宿N.U.T.S城市飯店",
         address: "東京都新宿区新宿1-16-5 160-0022",
-        mapUrl: "https://maps.app.goo.gl/kJq7qL3pM8nRK9tC8"
+        mapUrl: "https://maps.app.goo.gl/59JxWKPWvTZ44mrk6"
       },
       {
         day: "Day 4-5",
