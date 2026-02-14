@@ -15,7 +15,7 @@ const tripData = {
         day: "Day 2-3",
         name: "拉弗雷箱根強羅湯之棲飯店",
         address: "神奈川縣箱根町強羅1320 250-0408",
-        mapUrl: "https://maps.app.goo.gl/MCpv8c7KmM7gwnRU7?g_st=il"
+        mapUrl: "https://maps.app.goo.gl/FPcaxNN3K8eLnHAy5"
       },
       {
         day: "Day 4-5",
