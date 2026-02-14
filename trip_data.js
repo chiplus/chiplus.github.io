@@ -12,16 +12,16 @@ const tripData = {
         mapUrl: "https://maps.app.goo.gl/59JxWKPWvTZ44mrk6"
       },
       {
-        day: "Day 4-5",
-        name: "桜の川24池袋駅6分10人3臥室別墅",
-        address: "東京都豐島區池袋3丁目25-10, 171-0014",
-        mapUrl: "https://maps.app.goo.gl/MSKtGYdG1c5bmf5c6"
-      },
-      {
         day: "Day 2-3",
         name: "拉弗雷箱根強羅湯之棲飯店",
         address: "神奈川縣箱根町強羅1320 250-0408",
         mapUrl: "https://maps.app.goo.gl/8QkP3EWqN7tBNtXG8"
+      },
+      {
+        day: "Day 4-5",
+        name: "桜の川24池袋駅6分10人3臥室別墅",
+        address: "東京都豐島區池袋3丁目25-10, 171-0014",
+        mapUrl: "https://maps.app.goo.gl/MSKtGYdG1c5bmf5c6"
       }
     ]
   },
