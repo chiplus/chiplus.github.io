@@ -4,11 +4,26 @@ const tripData = {
   meta: {
     startDate: "2026-02-15",
     endDate: "2026-02-20",
-    hotel: {
-      name: "新宿王子飯店",
-      address: "東京都新宿区新宿3-1-4",
-      mapUrl: "https://maps.app.goo.gl/example"
-    }
+    hotels: [
+      {
+        day: "Day 1",
+        name: "東京新宿N.U.T.S城市飯店",
+        address: "東京都新宿区新宿1-16-5 160-0022",
+        mapUrl: "https://maps.app.goo.gl/kJq7qL3pM8nRK9tC8"
+      },
+      {
+        day: "Day 4-5",
+        name: "桜の川24池袋駅6分10人3臥室別墅",
+        address: "東京都豐島區池袋3丁目25-10, 171-0014",
+        mapUrl: "https://maps.app.goo.gl/qWxR2pL8vN9jK4tM6"
+      },
+      {
+        day: "Day 2-3",
+        name: "拉弗雷箱根強羅湯之棲飯店",
+        address: "神奈川縣箱根町強羅1320 250-0408",
+        mapUrl: "https://maps.app.goo.gl/5jH8yK3pL9mN2qR6T"
+      }
+    ]
   },
   flights: [
     {
